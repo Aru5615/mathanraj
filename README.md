@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I M Mathanraj A/L Arumugam
 
 🎓 Diploma Student in Information Technology  
-📍 Malaysia  
-📧 youremail@gmail.com  
-📱 +60-XXXXXXXXX  
+📍 Malaysia
+📧 mathan2003606@gmail.com  
+📱 +60-1136065363  
 
 ---
 
@@ -16,8 +16,8 @@ I am a hardworking and motivated IT student with interest in networking, cyberse
 ## 🎓 Education
 
 **Diploma in Information Technology**  
-Your Polytechnic Name  
-2023 - Present  
+Politeknik Seberang Perai
+2026 - Present  
 
 ---
 
@@ -59,5 +59,5 @@ Your Polytechnic Name
 
 ## 📫 Contact Me
 
-- Email: youremail@gmail.com
+- Email: mathan2003606@@gmail.com
 - GitHub: https://github.com/yourgithubusername
